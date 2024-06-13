@@ -44,9 +44,6 @@ Here are the few screenshots of the website,
 
 ![homePage](https://user-images.githubusercontent.com/73329321/215339479-a02a6e65-0325-4802-bd3c-aa60b198826a.png)
 
-**Dashboard**
-
-![userDashboard](https://user-images.githubusercontent.com/73329321/215339564-c441a726-eb17-4aab-8c44-7d5a64100165.png)
 
 **Result**
 ![result](https://user-images.githubusercontent.com/73329321/215339537-4515fc30-900d-439d-9fb2-b27a727d0d0e.png)
