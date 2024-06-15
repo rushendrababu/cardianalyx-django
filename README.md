@@ -1,20 +1,8 @@
 
 # Cardio Analyx
 
-It is a django-web application which can be used to detect cardiomegaly disease from a chest X-ray. We made it as a part of UNESCO India Africa Hackathon 2022
+It is a django-web application which can be used to detect cardiomegaly disease from a chest X-ray. 
 
-
-
-
-## Model files
-
-To run this project, you will need to add download the following .pkl file:
-200_6_23.pkl
-https://drive.google.com/file/d/1aBaBs_Deu6v4hRLK3TSBp7hOp5wdalkY/view?usp=share_link
-
-and place as following,
-
-`cardioAnalyx/dashboard/`
 
 
 
